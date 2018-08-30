@@ -1,1 +1,1 @@
-# test_core_modules
+# test-modules
