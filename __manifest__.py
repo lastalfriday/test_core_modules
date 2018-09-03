@@ -14,7 +14,7 @@
     'version': '0.0.1',
 
     'depends': [
-        # 'sale_management',
+        'sale_management',
         'pos_restaurant',
         'l10n_no'
     ],
